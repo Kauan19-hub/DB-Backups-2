@@ -15,6 +15,6 @@ If you want to test the scripts, run the commands in the terminal: (`CmD`, `Powe
 
 ###
 ```powershell
-git clone https://github.com/Kauan19-hub/DB-Backups
+git clone https://github.com/Kauan19-hub/DB-Backups-2
 ```
 
